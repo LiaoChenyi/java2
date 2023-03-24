@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfc38b0a-03fe-4a8a-93c6-1b702f2cb21b" name="变更" comment="更新">
-      <change afterPath="$PROJECT_DIR$/Assignment1/Assignment1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/java2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/my_checks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/out/production/java2/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/out/production/java2/Instructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/out/production/java2/OnlineCoursesAnalyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/out/test/java2/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/out/test/java2/LocalAnalyzerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/out/test/java2/MethodEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_checks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/Instructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/OnlineCoursesAnalyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java2/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java2/LocalAnalyzerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java2/MethodEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q4_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q4_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q5_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q5_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q6_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q6_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/local_answer/Q6_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OnlineCoursesAnalyzer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LocalAnalyzerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MethodEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/OnlineCoursesAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/OnlineCoursesAnalyzer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,10 +34,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/COURSE/java2/lab/lab1/java2/Assignment1",
+    "last_opened_file_path": "D:/COURSE/java2/lab/lab1/java2",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -244,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679621179857</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新">
+      <created>1679624085938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679624085938</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,5 +235,9 @@
         <watch expression="instructorsList.elementData[14]" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
